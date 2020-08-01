@@ -3,6 +3,9 @@
 
 [Demo](https://x-ionic-cart.web.app)
 
+##### Android build 
+*Using [Ionic Pro](https://ionicframework.com/pricing)*
+
 ##### Build
 Assuming you have node, npm and [Ionic](https://ionicframework.com/docs/intro/cli) installed
 ```
