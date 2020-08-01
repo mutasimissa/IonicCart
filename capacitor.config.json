@@ -1,6 +1,6 @@
 {
   "appId": "io.sourcya.ionic.cart",
-  "appName": "pos",
+  "appName": "IonicCart",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "build",
