@@ -1,0 +1,47 @@
+{
+    "products": [
+    {
+      "id": "0001",
+      "name": "Mineral Water",
+      "quantity": 1,
+      "price": 5,
+      "category":"drinks"
+    },
+    {
+      "id": "0002",
+      "name": "Pepsi 250ml",
+      "quantity": 1,
+      "price": 5,
+      "category":"drinks"
+    },
+    {
+      "id": "0003",
+      "name": "Sweat & Sour Sauce Hainz 100g",
+      "quantity": 1,
+      "price": 25,
+      "category":"groceries"
+    },
+    {
+      "id": "0004",
+      "name": "Feta Cheese 500g",
+      "quantity": 1,
+      "price": 30,
+      "category":"groceries"
+    },
+    {
+      "id": "0005",
+      "name": "French Bagette 30cm",
+      "quantity": 1,
+      "price": 20,
+      "category":"bakery"
+
+    },
+    {
+      "id": "0006",
+      "name": "Black Forest Cake 50cm",
+      "quantity": 1,
+      "price": 275,
+      "category":"bakery"
+    }
+  ]
+}

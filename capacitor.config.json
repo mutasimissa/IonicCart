@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "io.sourcya.ionic.cart",
   "appName": "pos",
   "bundledWebRuntime": false,
   "npmClient": "npm",
